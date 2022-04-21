@@ -1,0 +1,9 @@
+{
+  "AppSetting": {
+    "VisualiserSeriesUri": "https://localhost/api/v1/series",
+    "VisualiserApiKey": "randomstring",
+    "CaseManagementQueueCountUrl": "https://localhost:9000",
+    "CaseManagementAuthToken": "Basic token",
+    "CountEndpoint" : "http://{0}.localhost.com/count"
+  }
+}
